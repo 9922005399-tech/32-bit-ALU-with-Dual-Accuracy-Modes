@@ -4,7 +4,7 @@ This project presents the design and implementation of a 32-bit Arithmetic Logic
 # Tools Used
 Software: Xilinx Vivado
 
-Hardware Platform: Xilinx Virtex-5 (XC5VLX50T) FPGA
+Hardware Platform: Xilinx Spartan-7 FPGA (xc7s25csga324-1IL)
 
 Language: Verilog HDL
 
