@@ -23,7 +23,7 @@ Single unified Verilog implementation
 
 Open the project in Vivado.
 
-Add the Verilog file Approx_ALU.v.
+Add the Verilog file dual_mode_alu_top.v
 
 Synthesize and implement the design.
 
