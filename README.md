@@ -28,3 +28,9 @@ Add the Verilog file Approx_ALU.v.
 Synthesize and implement the design.
 
 Simulate to verify both accuracy modes.
+
+
+# Block Diagram
+
+![WhatsApp Image 2025-10-30 at 13 08 46_e802a874](https://github.com/user-attachments/assets/10a904c3-cad2-4408-9820-ca2ea144fc95)
+
